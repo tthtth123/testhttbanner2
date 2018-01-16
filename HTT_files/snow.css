@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Molle:400italic&subset=latin,latin-ext);
+#snow{
+    margin: 0px;
+    overflow: hidden;
+    font-family: 'Molle', cursive;
+    position: absolute;
+    left: 0;
+    top: 0;
+    pointer-events: none; 
+}
+#canv{
+    z-index: 1;
+}
